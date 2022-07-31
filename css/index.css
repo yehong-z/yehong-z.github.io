@@ -2533,12 +2533,12 @@ body::before {
   font-size: 0.9em;
   color: #999;
 }
-@media (min-width: 1138px) {
+@media (min-width: 1170px) {
   .header-nav-inner {
-    width: 1138px;
+    width: 1170px;
   }
   .main-inner {
-    width: 1138px;
+    width: 1170px;
   }
 }
 @media (min-width: 991.98px) {
